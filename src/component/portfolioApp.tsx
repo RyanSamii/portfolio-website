@@ -12,10 +12,11 @@ interface Project {
   description: string;
 }
 
-import React, { useState } from "react";
-import { FiGithub, FiLinkedin, FiMail, FiExternalLink } from "react-icons/fi";
+import { useState } from "react";
+/*import { video } from "framer-motion/client";*/
+import { FiGithub, FiLinkedin, FiExternalLink } from "react-icons/fi";
 import { motion, AnimatePresence } from "framer-motion";
-import { video } from "framer-motion/client";
+
 
 const projectsData = [
   {
