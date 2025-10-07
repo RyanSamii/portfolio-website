@@ -24,8 +24,8 @@ const projectsData = [
     title: "Gesture Recognition Plugin",
     subtitle: "Real-time webcam gesture recognition — Unity integration + front-end demo",
     tech: ["Unity", "C#", "UI Toolkit", "Google MediaPipe", "SQLite", "Computer Vision"],
-    video: "/videos/nova-kiosk.mp4",
-    img: "/images/NOVA_Logo.png", 
+    video: "videos/nova-kiosk.mp4",
+    img: "images/NOVA_Logo.png", 
     demo: "#", // replace with live demo URL if available
     repo: "https://github.com/GYOUDNova/Nova",
     description:
@@ -37,7 +37,7 @@ const projectsData = [
     subtitle: "Conversational assistant with custom knowledge + voice interaction",
     tech: ["Python", "RVC", "Ollama", "Text-to-Speech", "Speech-to-Text", "LLMs"],
     video: null,
-    img: "/images/chat-bot.png",
+    img: "images/chat-bot.png",
     demo: "#",
     repo: "https://github.com/RyanSamii/Personal-Chatbot",
     description:
@@ -49,7 +49,7 @@ const projectsData = [
     subtitle: "Interactive simulation for training inspectors and decision-makers",
     tech: ["Unity", "UI Toolkit", "C#", "Simulation", "JavaScript"],
     video: null,
-    img: "/images/health-inspection.png",
+    img: "images/health-inspection.png",
     demo: "#",
     repo: "https://github.com/RyanSamii",
     description:
@@ -61,7 +61,7 @@ const projectsData = [
     subtitle: "This very website! Built with React, Tailwind, and Framer Motion",
     tech: ["React", "Tailwind CSS", "Framer Motion"],
     video: null,
-    img: "/images/portfolio-website.png",
+    img: "images/portfolio-website.png",
     demo: "#",
     repo: "https://github.com/RyanSamii/portfolio-website",
     description:
